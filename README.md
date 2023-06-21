@@ -20,15 +20,15 @@ Below are some examples that demonstrate the agent's behavior using different in
 
 - Candlestick chart with BUY (GREEN) / SELL (RED) signals without reward policy.
 
-![Example 1](path_to_image1.png)
+![Example 1](one.png)
 
 - Candlestick chart with BUY (GREEN) / SELL (RED) signals and the WALLET BALANCE of the agent (BLUE).
 
-![Example 2](path_to_image2.png)
+![Example 2](two.png)
 
 - Candlestick chart with BUY (GREEN) / SELL (RED) signals, WALLET BALANCE of the agent (BLUE), Technical Indicators, and Agent Reward (in boxes).
 
-![Example 3](path_to_image3.png)
+![Example 3](three.png)
 
 Replace `path_to_image1.png`, `path_to_image2.png`, and `path_to_image3.png` with the actual file paths or URLs of your images.
 
