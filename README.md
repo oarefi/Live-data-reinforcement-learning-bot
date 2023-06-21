@@ -30,7 +30,6 @@ Below are some examples that demonstrate the agent's behavior using different in
 
 ![Example 3](three.png)
 
-Replace `path_to_image1.png`, `path_to_image2.png`, and `path_to_image3.png` with the actual file paths or URLs of your images.
 
-Feel free to add any additional details or explanations to the README as needed.
+
 
